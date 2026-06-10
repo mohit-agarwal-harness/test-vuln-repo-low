@@ -4,7 +4,7 @@
   "description": "Test repository with low-severity vulnerabilities only",
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.17.21",
+    "lodash": "4.17.22",
     "debug": "3.1.0",
     "express": "4.21.2",
     "semver": "7.5.2",
