@@ -1,0 +1,14 @@
+{
+  "name": "test-vuln-repo-low",
+  "version": "1.0.0",
+  "description": "Test repository with low-severity vulnerabilities only",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.17.21",
+    "debug": "3.1.0",
+    "express": "4.21.2",
+    "semver": "7.5.2",
+    "tough-cookie": "4.1.2",
+    "word-wrap": "1.2.3"
+  }
+}
